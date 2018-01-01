@@ -1,0 +1,2 @@
+[03/08 00:10:07] Find Event Objects failed
+[03/08 00:10:07] OnStopAp()
